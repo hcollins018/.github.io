@@ -1,0 +1,97 @@
+body {
+    background-color: powderblue;
+    font-family: 'Mooli', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Lobster';
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+p {
+    margin: 10px 80px 40px;
+}
+
+#p_nav {
+    margin: 0%;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    margin: 50px;
+    font-size: 14px; 
+}
+
+table {
+    font-size: 20px;
+    width: 60%;
+    margin: 0% 20%;
+}
+
+td {
+    text-align: center;
+    cursor: pointer;
+}
+
+a {
+    font-size: 18px;
+    color: purple;
+}
+
+.selected {
+    font-size: 18px;
+    padding: 1px;
+    margin: 0%;
+    color: purple;
+}
+
+img.large {
+    border-radius: 30px;
+    box-shadow: -1px 2px 5px 1px darkslategray;
+    width: 80%;
+    margin: 0% 10%;
+}
+
+img.gallery {
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 3px solid teal;
+    width: 30%;
+}
+
+img.selfie {
+    border-radius: 15px;
+    box-shadow: -1px 2px 5px 1px darkslategray;
+    width: 30%;
+    margin: 20px 35%;
+}
+
+
+footer {
+    font-size: 80%;   
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 5%;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    justify-items: space-between;
+    margin: 0% 20% 0% 20%;
+}
