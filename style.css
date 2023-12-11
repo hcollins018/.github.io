@@ -15,19 +15,13 @@ h2{
 }
 
 p {
-    text-align: center;
-    margin: 10px 80px 40px;
+    margin: 10px 60px 40px;
 }
 
 #p_nav {
     margin: 0%;
 }
 
-button{
-    text-align: center;
-    display: flex;
-    justify-content: center;
-}
 
 ul {
     list-style-type: none;
