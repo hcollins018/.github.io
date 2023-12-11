@@ -23,6 +23,11 @@ p {
     margin: 0%;
 }
 
+button{
+    display: flex;
+    justify-content: center;
+}
+
 ul {
     list-style-type: none;
     text-align: center;
